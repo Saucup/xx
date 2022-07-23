@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{A34C5E58-4A70-93E5-E27F-4C8230D7E2CA}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "xx",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
